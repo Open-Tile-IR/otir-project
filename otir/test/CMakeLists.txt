@@ -1,0 +1,1 @@
+add_lit_testsuite(check-otir "Running OTIR tests" ${CMAKE_CURRENT_SOURCE_DIR})
